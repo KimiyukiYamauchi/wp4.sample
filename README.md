@@ -1,7 +1,7 @@
 1. wordpressのインストール(wp4)
 1. 「wp4」ディレクトリにApacheからアクセスできるようにパーミッションの変更<br />
-> sudo chown -R .www-data wp4
-> chmod -R g+w wp4
+> sudo chown -R .www-data wp4<br />
+> chmod -R g+w wp4<br />
 1. テーマの準備(wp4/wp-content/themas/sample)
 	1. style.css
 	1. index.php
